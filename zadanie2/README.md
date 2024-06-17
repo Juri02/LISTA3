@@ -1,9 +1,11 @@
 # Automatyzacja procesów z wykorzystaniem Makefile
 
 ## Opis
-Plik Makefile automatyzuje procesy testowania i uruchamiania aplikacji. 
+Ten projekt demonstruje automatyzację procesów testowania i uruchamiania prostej aplikacji Python za pomocą pliku Makefile. Aplikacja wykonuje podstawowe operacje matematyczne (dodawanie, odejmowanie, mnożenie) na dwóch liczbach wprowadzanych przez użytkownika.
 
 ## Uruchomienie
-1. Zainstaluj zależności:
+Aby uruchomić ten projekt, wykonaj poniższe kroki:
+
+1. **Zainstaluj zależności** (obecnie brak zewnętrznych zależności):
    ```bash
    make install
